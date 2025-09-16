@@ -1,12 +1,10 @@
-Phase 1: Foundations (no deep learning yet)*
-
-### 🔹 Project 1: *Image Manipulation with NumPy & Matplotlib*
+🔹 Project Name: *Image Manipulation with NumPy & Matplotlib*
 
 * Load an image as a NumPy array.
 * Do basic operations: crop, resize, flip horizontally/vertically, change brightness.
 * Plot original vs modified images with Matplotlib.
 
-👉 Skills: Image = array concept, slicing, broadcasting.
+👉 Skills Lean: Image = array concept, slicing, broadcasting.
 
 
 **********************
