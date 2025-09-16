@@ -1,0 +1,31 @@
+Phase 1: Foundations (no deep learning yet)*
+
+### 🔹 Project 1: *Image Manipulation with NumPy & Matplotlib*
+
+* Load an image as a NumPy array.
+* Do basic operations: crop, resize, flip horizontally/vertically, change brightness.
+* Plot original vs modified images with Matplotlib.
+
+👉 Skills: Image = array concept, slicing, broadcasting.
+
+
+**********************
+Images become 3D arrays: (height, width, channels)
+    - Channels = 3 for RGB (Red, Green, Blue)
+
+CROP:
+
+Crop image using array slicing
+    
+    Explanation:
+    - Array slicing: img[row_start:row_end, col_start:col_end]
+    - top:bottom = rows to keep (vertical crop)
+    - left:right = columns to keep (horizontal crop)
+
+
+tight_layout() :
+It adusts :
+Padding between subplots
+Margins around the figure
+Title spacing to prevent cut-off
+Overall spacing for readability
