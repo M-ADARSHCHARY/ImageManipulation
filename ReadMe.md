@@ -58,6 +58,8 @@ The project displays 6 image transformations in a 2x3 grid:
 - Vertical flip
 - Brightness adjusted
 
+![Sample Output](images/output.png)
+
 ---
 **Author**: M Adarsh Chary  
 **Date**: September 16 2025  
