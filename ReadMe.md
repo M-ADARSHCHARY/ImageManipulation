@@ -59,6 +59,6 @@ The project displays 6 image transformations in a 2x3 grid:
 - Brightness adjusted
 
 ---
-**Author**: [Your Name]  
-**Date**: September 2025  
+**Author**: M Adarsh Chary  
+**Date**: September 16 2025  
 **Course**: AI/ML Fundamentals
